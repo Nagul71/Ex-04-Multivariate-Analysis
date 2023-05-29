@@ -90,28 +90,34 @@ sns.heatmap(df.corr(),annot=True)
 # OUTPUT:
 
 ## DF
+![Screenshot 2023-05-29 221523](https://github.com/Nagul71/Ex-04-Multivariate-Analysis/assets/118661118/575a5384-b077-44df-b0fa-94f65cfa6048)
 
-![output](a.png)
+
 
 ## DF.INFO
 
-![output](b.png)
+![Screenshot 2023-05-29 221528](https://github.com/Nagul71/Ex-04-Multivariate-Analysis/assets/118661118/1ef80e34-6135-4b1c-9861-325ca68ba4b6)
+
 
 ## NULL.SUM()
 
-![output](c.png)
+![Screenshot 2023-05-29 221533](https://github.com/Nagul71/Ex-04-Multivariate-Analysis/assets/118661118/2cc6ca6b-5845-4642-a7d7-5f447d2ee459)
+
 
 ## AFTER CLEANING
 
-![output](d.png)
+![Screenshot 2023-05-29 221537](https://github.com/Nagul71/Ex-04-Multivariate-Analysis/assets/118661118/b232c05d-f749-4cd6-bf1b-cda721215b5d)
+
 
 ## DATA TYPES
 
-![output](e.png)
+![Screenshot 2023-05-29 221543](https://github.com/Nagul71/Ex-04-Multivariate-Analysis/assets/118661118/76135a34-d20e-4fdd-a4fd-20148884cd3c)
+
 
 ## SCATTER PLOT
 
-![output](f.png)
+![Screenshot 2023-05-29 221554](https://github.com/Nagul71/Ex-04-Multivariate-Analysis/assets/118661118/7937009f-1074-4acf-91ec-bc3de72a7f48)
+
 
 ## BARPLOT
 
@@ -122,7 +128,8 @@ sns.heatmap(df.corr(),annot=True)
 
 ## CORRELATION COEFFICIENT INTERPRETATION
 
-![output](k.png)
+![Screenshot 2023-05-29 221657](https://github.com/Nagul71/Ex-04-Multivariate-Analysis/assets/118661118/5c0a6765-8c65-4d9f-acd5-fa88d9e00bc4)
+
 
 ## HEATMAP
 
